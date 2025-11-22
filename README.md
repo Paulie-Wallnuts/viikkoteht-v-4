@@ -30,6 +30,6 @@ Nginx toimii ja ohjaa Streamlitin reverse-proxyn kautta.
 Cronin loki sijaitsee täällä:
 /home/ubuntu/lemp-app/cron.log
 
+## Kuvatodiste
 
-
-
+<img width="952" height="148" alt="image" src="https://github.com/user-attachments/assets/a5c71a55-a44b-4611-987c-924f06d7dcca" />
